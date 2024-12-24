@@ -1,4 +1,10 @@
 This is a readme file.
 
-Added a new feature called as Feature1
-
+This is an excercise to understand command Fork.
+current steps done.
+step 1 - external repo copied to my remote repository via Fork. Repo name : Recap_SQL/ SQLNotes
+step 2 - from my remote made a new local repo and copied to 
+my local Repo name
+Step 3 - sucessfully cloned to local -Identify changes "edit README. md file".
+Step 4 - Current- Create a branch'feature1'- Doing the changes (current step)
+step 5 - proceed further in the lesson
